@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets",
+    "burkeholland.simple-react-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "styled-components.vscode-styled-components",
+    "pkief.material-icon-theme",
+    "usernamehw.error-lens",
+    "wix.vscode-import-cost"
+  ]
+}
