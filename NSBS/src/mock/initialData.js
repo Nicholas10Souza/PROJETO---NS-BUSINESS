@@ -379,6 +379,16 @@ export const initialUsers = [
     avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80',
     lastLogin: 'Ontem às 18:00',
   },
+  {
+    id: 'USR-06',
+    name: 'Fernanda Souza',
+    email: 'fernanda@nsbusiness.com.br',
+    role: 'Vendedora Sênior',
+    department: 'Vendas & Negócios',
+    status: 'Ativo',
+    avatar: '/fernanda-souza.jpg',
+    lastLogin: 'Ontem às 18:00',
+  },
 ];
 
 export const initialSettings = {
