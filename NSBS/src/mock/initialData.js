@@ -386,7 +386,7 @@ export const initialUsers = [
     role: 'Vendedora Sênior',
     department: 'Vendas & Negócios',
     status: 'Ativo',
-    avatar: '/fernanda_irma.jpg',
+    avatar: '/fernanda_irma.png',
     lastLogin: 'Ontem às 18:00',
   },
 ];
