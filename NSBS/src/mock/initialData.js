@@ -347,7 +347,7 @@ export const initialUsers = [
     department: 'Diretoria',
     status: 'Ativo',
     avatar: '/mike_brother.png',
-    lastLogin: 'Hoje às 17:00',
+    lastLogin: 'Hoje às 16:00',
   },
   {
     id: 'USR-03',
